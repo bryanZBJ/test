@@ -17,3 +17,13 @@ t
 Dconsumer/src/main/java/com/example/consumer/ConsumerApplication.java,f\4\f454c009cdda6ed9f9a85b3f689dda53b236f58b
 >
 eureka/pom.xml,3\0\30f428f04913bd558ce1a35dc4f7699762244c5b
+n
+>common/src/main/java/com/example/common/util/CommonResult.java,0\8\08aadc8cf4b1eb7d849fb94b66c200bfe63ed657
+>
+common/pom.xml,4\8\488bdbea7e8b73c44bd2a54e63f6012f10969196
+@
+producer/pom.xml,6\f\6f3180fbaa9fd9b04b9b89872378382f932d7b0a
+s
+Ccommon/src/main/java/com/example/common/exception/BizException.java,1\4\14e711391d62fae353424dd125e7ebb5f26d178b
+w
+Gcommon/src/main/java/com/example/common/exception/ControllerAdvice.java,6\7\672874c0980e7662dded525283e02520675400a1
