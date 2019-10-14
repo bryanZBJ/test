@@ -20,7 +20,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwaggerBootstrapUI
 public class SwaggerConfig {
 
-    @Value("${swagger.host:localhost:9002}")
+    @Value("${swagger.host}")
     private String swaggerHost;
 
     @Bean

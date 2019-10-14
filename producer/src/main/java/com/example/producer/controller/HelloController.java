@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 @Api(value = "helloController", tags = {"Hello"})
 public class HelloController {
 
-    @Value("${hello}")
+    @Value("${mes.test:这个是默认值}")
     private String value;
 
     @RequestMapping(value = "/config", method = RequestMethod.GET)
