@@ -12,18 +12,18 @@ spring:
           - Path=/consumer/**
           filters:
           - StripPrefix=1
-        - id: my_route
-          uri: http://www.ityouknow.com
-          predicates:
-          - Path=/spring-cloud
-          filters:
-          - StripPrefix=1
         - id: producer
           uri: lb://spring-cloud-producer
           predicates:
           - Path=/producer/**
           filters:
           - StripPrefix=1
+#用url定义        - id: my_route
+        #          uri: http://www.ityouknow.com
+        #          predicates:
+        #          - Path=/spring-cloud
+        #          filters:
+        #          - StripPrefix=1
 eureka:
   client:
     serviceUrl:
