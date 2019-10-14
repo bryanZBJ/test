@@ -27,3 +27,7 @@ s
 Ccommon/src/main/java/com/example/common/exception/BizException.java,1\4\14e711391d62fae353424dd125e7ebb5f26d178b
 w
 Gcommon/src/main/java/com/example/common/exception/ControllerAdvice.java,6\7\672874c0980e7662dded525283e02520675400a1
+n
+>config/src/main/java/com/example/config/ConfigApplication.java,e\f\efce8eb9083ac311897d2868f10de1a1da791afc
+>
+config/pom.xml,3\5\35eac4e5ad87739c066f6254b29e08708c038f22
