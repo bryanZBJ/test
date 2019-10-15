@@ -18,6 +18,12 @@ spring:
           - Path=/producer/**
           filters:
           - StripPrefix=1
+        - id: auth
+          uri: lb://spring-cloud-auth
+          predicates:
+          - Path=/auth/**
+          filters:
+          - StripPrefix=1
 #用url定义        - id: my_route
         #          uri: http://www.ityouknow.com
         #          predicates:

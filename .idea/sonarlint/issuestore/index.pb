@@ -31,3 +31,17 @@ n
 >config/src/main/java/com/example/config/ConfigApplication.java,e\f\efce8eb9083ac311897d2868f10de1a1da791afc
 >
 config/pom.xml,3\5\35eac4e5ad87739c066f6254b29e08708c038f22
+q
+Agateway/src/main/java/com/example/gateway/GatewayApplication.java,1\4\1437468eeed6b38c55f2e1d59d17012de870defd
+?
+gateway/pom.xml,4\b\4b316bc60d1cfae51045f6fc8e58a8ae31f03ff3
+s
+Cgateway/src/main/java/com/example/gateway/config/SwaggerConfig.java,d\c\dc40fe333bb71b89899dffcb0456678d02a35851
+u
+Egateway/src/main/java/com/example/gateway/handler/SwaggerHandler.java,6\a\6a58fba4d809dabebc116859389702d9271cb8c0
+y
+Igateway/src/main/java/com/example/gateway/filter/SwaggerHeaderFilter.java,4\0\40dd5b64e7a8cf7fb00571c8c22744c61b388190
+u
+Econsumer/src/main/java/com/example/consumer/config/SwaggerConfig.java,8\b\8b79ec3e0998bc8f60553bfd7dba18d1dad084d0
+u
+Eproducer/src/main/java/com/example/producer/config/SwaggerConfig.java,0\2\02773587a78631b47c60c744867656c826f0a3e2
